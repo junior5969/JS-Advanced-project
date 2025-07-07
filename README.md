@@ -8,10 +8,8 @@
 
 All'apertura verrà visualizzata la homepage, composta da diverse sezioni:
 
+- **Sezione riassuntiva**: card con descrizione delle attività della pagina.
 - **Ricerca libri**: una barra dove inserire categorie per trovare libri consigliati.
-- **Sezione studio**: card con giochi educativi e materiali interattivi.
-- **Sezione LIS**: contenuti accessibili in Lingua dei Segni Italiana.
-- **Area personale**: spazio dedicato alla registrazione e alle comunicazioni scolastiche.
 
 ---
 
@@ -64,7 +62,7 @@ Progetto JavaScript Advanced di Chiara Barletta/
 │
 ├── dist/                       
 │   ├── index.html              
-│   ├── main.js                 
+│   ├── bundle.js                 
 │   ├── style.css               
 │   └── assets/                 
 │       └── img/                
@@ -93,12 +91,12 @@ Chiara Barletta
 
 ## 🌐 Demo Online
 
-Visualizza il progetto su [Netlify](https://owly-website.netlify.app/). 
+Visualizza il progetto su [Netlify](https://686bd0a76c7025e77d207eb7--owly-page.netlify.app). 
 
 
 ## 📂 Repository GitHub
 
-Visita il codice sorgente su [GitHub](https://junior5969.github.io/javascript-advanced/).
+Visita il codice sorgente su [GitHub](https://junior5969.github.io/JS-Advanced-project/).
 
 
 ## 📄 Documentazione 
