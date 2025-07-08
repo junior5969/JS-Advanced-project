@@ -96,7 +96,7 @@ Visualizza il progetto su [Netlify](https://686bd0a76c7025e77d207eb7--owly-page.
 
 ## 📂 Repository GitHub
 
-Visita il codice sorgente su [GitHub](https://junior5969.github.io/JS-Advanced-project/).
+Visita il codice sorgente su [GitHub](https://github.com/junior5969/JS-Advanced-project).
 
 
 ## 📄 Documentazione 
