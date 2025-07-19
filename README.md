@@ -91,7 +91,7 @@ Chiara Barletta
 
 ## 🌐 Demo Online
 
-Visualizza il progetto su [Netlify](https://686bd0a76c7025e77d207eb7--owly-page.netlify.app). 
+Visualizza il progetto su [Netlify](https://687bb6a2939251c8ec3fd985--owly-page.netlify.app). 
 
 
 ## 📂 Repository GitHub
