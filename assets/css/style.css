@@ -127,7 +127,7 @@ header {
 }
 
 .hidden {
-  display: none !important;
+  display: none;
 }
 
 .nav-list a {
@@ -309,6 +309,10 @@ header {
   align-items: center;
   gap: 2rem;
   z-index: 9999;
+}
+
+.hidden-loader {
+    display: none;
 }
 
 #loader-overlay p {

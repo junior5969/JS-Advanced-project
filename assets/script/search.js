@@ -102,7 +102,9 @@ export function setupSearch() {
             descriptionElement.textContent =
               "Errore durante il recupero della descrizione.";
             showElement(descriptionDiv);
-          }
+          }finally {
+    hiddenLoader(); 
+  }
         });
 
         bookCard.appendChild(titleElement);
