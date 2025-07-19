@@ -312,7 +312,7 @@ header {
 }
 
 .hidden-loader {
-    display: none;
+    display: none !important;
 }
 
 #loader-overlay p {
