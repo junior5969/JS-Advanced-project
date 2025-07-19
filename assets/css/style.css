@@ -320,7 +320,6 @@ header {
 }
 
 .loader {
-  display: block;
   font-size: clamp(2.8rem, 4vw, 3.4rem);
   font-weight: 500;
   font-family: "Fredoka", sans-serif;
