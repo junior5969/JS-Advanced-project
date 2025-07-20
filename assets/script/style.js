@@ -13,3 +13,11 @@ export function showElement(element) {
 export function hiddenElement(element) {
   element.style.display = "none";
 }
+
+export function displayLoader(element) {
+  element.style.display = "flex";
+  element.style.flexDirection = "column";
+  element.style.justifyContent = "center";
+  element.style.alignItems = "center";
+  element.style.gap = "2rem";
+}
