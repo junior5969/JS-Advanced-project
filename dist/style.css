@@ -324,7 +324,7 @@ header {
   font-family: "Fredoka", sans-serif;
   color: #09254f;
   text-align: center;
-  animation: spin 4s ease infinite;
+  animation: spin 2s ease infinite;
 }
 
 @keyframes spin {
