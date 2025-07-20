@@ -1,5 +1,5 @@
 
-import { showSection, showElement, hiddenElement } from "./style";
+import { showSection, showElement, hiddenElement, displayLoader } from "./style";
 import { showLoader, hiddenLoader } from "./loader";
 
 export function setupSearch() {
@@ -12,6 +12,7 @@ export function setupSearch() {
 
   async function search() {
       showLoader();
+      displayLoader(loader);
     const input = document.querySelector("#category");
     const category = input.value.trim().toLowerCase();
 
