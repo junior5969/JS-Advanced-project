@@ -12,7 +12,6 @@ export function setupSearch() {
 
   async function search() {
       showLoader();
-      displayLoader(loader);
     const input = document.querySelector("#category");
     const category = input.value.trim().toLowerCase();
 

@@ -19,5 +19,6 @@ export function displayLoader(element) {
   element.style.flexDirection = "column";
   element.style.justifyContent = "center";
   element.style.alignItems = "center";
+  element.style.textAlign = "center";
   element.style.gap = "2rem";
 }
